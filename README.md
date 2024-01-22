@@ -20,4 +20,4 @@ Desi Bites is one of the best online food delivery restaurant wide variety of fo
 <li>jail mandi</li>
 </ul>
 
-![About Yamini](Yamini.jpg)
+![AboutYamini](MyMedia.md)
