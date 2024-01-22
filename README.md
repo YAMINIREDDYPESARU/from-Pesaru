@@ -7,15 +7,15 @@ Desi Bites is one of the best online food delivery restaurant wide variety of fo
 
 # Favorite Dishes
 <ol>
-<li>Chicken Briyani<li>
-<li>Fried Rice<li>
-<li>Butter Naan<li>
+Chicken Briyani
+Fried Rice
+Butter Naan
 </ol>
 
 # Places near the restaurant
 
 <ul>
-<li>Tulips<li>
-<li>play station<li>
-<li>jail mandi<li>
+Tulips
+play station
+jail mandi
 </ul>
