@@ -35,5 +35,12 @@ _ _ _
 # Inspirational Quotes
 > “Success is a journey,not a destination.The doing is often more important than the outcome." *-Arthur Ashe*
 > “Every day may not be good,but there's something good in every day" *-Alice Morse Earle*
-
-     
+_ _ _
+# Code Fencing
+The Count command in SQL returns the number of rows that matches a specified criterion.
+```
+SELECT COUNT(column_name)
+FROM table_name
+WHERE condition;
+```
+[SQL Snippet](https://code.pieces.app/collections/sql)
