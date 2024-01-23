@@ -30,4 +30,10 @@ Table of 4 books that i would recommend to study.
 |The little prince |The story follows a young prince who visits various planets | Antoinen |          
 |A wrinkle in time | A Wrinkle in Time is a young adult science fantasy novel | Madeleine |     
 |The great Gatsby | The Great Gatsby is a 1925 novel by American writer | F. Scott |
+
+_ _ _
+# Inspirational Quotes
+> “Success is a journey,not a destination.The doing is often more important than the outcome." *-Arthur Ashe*
+> “Every day may not be good,but there's something good in every day" *-Alice Morse Earle*
+
      
